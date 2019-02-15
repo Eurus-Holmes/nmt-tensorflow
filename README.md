@@ -44,6 +44,10 @@ For using the stable TensorFlow versions, please consider other branches such as
 - [BibTex](#bibtex)
 
 
+> PS: [Chinese Tutorial Version](https://zhuanlan.zhihu.com/p/33319933)
+
+
+
 # Introduction
 
 Sequence-to-sequence (seq2seq) models
